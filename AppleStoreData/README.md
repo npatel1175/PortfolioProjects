@@ -32,10 +32,6 @@ Since the files were uploaded, a table was created to combine the original four 
 ## Results
 
 
---check the top-rated apps for each genre--
-
-
-
 Here are some of the key findings and insights I found from this dataset:
 
 * Analysis shows that paid apps generally receives higher ratings compared to ones that are free. This could be for many reasons such as the engagement is higher considering that there is a financial factor involved. 
