@@ -4,7 +4,6 @@
 - [Overview](#overview)
 - [Dataset](#dataset)
 - [Notebooks](#notebooks)
-- [Visualizations](#visualizations)
 - [Findings](#findings)
 - [Dependencies](#dependencies)
 
@@ -27,18 +26,6 @@ Before the analysis, some preprocessing steps were performed. This included clea
 List and briefly describe the main Jupyter Notebooks in your project. For example:
 - `Ultra_Marathon_EDA.ipynb`: Notebook containing initial data exploration using Pandas.
 - `Ultra_Marathon_EDA.ipynb`: Notebook focusing on data visualization using Seaborn.
-
-## Visualizations
-Visualizations include the following: 
-
-![Example Visualization 1](visualizations/visualization1.png)
-
-
-
-
-
-
-
 
 
 ## Findings
