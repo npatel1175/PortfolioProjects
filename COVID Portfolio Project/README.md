@@ -59,7 +59,8 @@ where dea.continent is not null
 order by 2,3
 ```
 
-* Filtering: The queries use WHERE clauses to filter the data based on specific conditions, such as excluding the world and continent rows, and selecting only non-null values for the continent column.
+* Filtering: 
+The queries use WHERE clauses to filter the data based on specific conditions, such as excluding the world and continent rows, and selecting only non-null values for the continent column.
 
 * Casting and Conversion: The queries use the CAST and CONVERT functions to change the data type of certain columns, such as converting the total deaths column from NVARCHAR to integer to enable aggregation calculations.
 
