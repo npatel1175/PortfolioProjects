@@ -24,14 +24,8 @@ The dataset is in ​CSV format and consists of multiple columns such as ​orde
 ## Analysis
 The SQL methods and techniques used in this analysis include common table expressions, aggregate functions, window functions, and XML Path. These were utilized to perform data manipulations, aggregations, and analysis on the sales data set.
 
-Here are some of 
+Here are some of the sql techniques:
 
-Case Statements: 
-
-
-```sql
-
-```
 * Aggregation: Aggregation functions, such as SUM or MAX, are used to calculate the What city has the highest number of sales in a specific country.
 
 ```sql
@@ -40,13 +34,6 @@ from [PortfolioDB].[dbo].[sales_data_sample]
 where country = 'UK'
 group by city
 order by 2 desc
-```
-
-* Partitioning: 
-
-
-```sql
-
 ```
 
 * Casting: The queries use the CAST functions to change the data type of certain columns, such as converting columns to strings so they don't get added up as numeric values. 
@@ -79,15 +66,19 @@ https://public.tableau.com/app/profile/nick.patel1864/vizzes
 
 Here are some of the key findings and insights I found from this dataset:
 
-* Analysis shows Death Percentage: The overall death percentage across the world is a about one percent at the time the data was analyzed.
-* Identified that Europe suffered the most deaths from the disease with countries such as France and Austria being heavily infected.
-* The region that suffered the least was Austrailia and Oceania which could be due to the fact that the population is much smaller compared to the rest of the world. Though it is important to note that Australia alone had 44% of the population infected at one point.
-* North America is the 3rd highest infected population, mostly due to the U.S. leading the charge with close to 31% of the population infected at some point
-* Using a forecast indicator in Tableau, I was able to find that between India, China, United States, United Kingdom, and Mexico that China is predicted to have a higher average population infected in the future comparatively to the other major countries listed.
+* First, the best-selling product line is classic cars, followed by vintage cars. 
 
+* November emerged as the best month for sales, with higher revenue generated during that time. 
 
+* Medium-sized deals were found to generate the most revenue, suggesting the need for targeted marketing strategies for this segment. 
 
+* The United States was the top revenue-generating country, with France and Spain also showing significant sales. 
 
+* The year 2004 stood out as a particularly successful year for sales. 
+
+* Additionally, the analysis uncovered a strong correlation between certain products being sold together, indicating the potential for bundled sales strategies. 
+
+* Finally, using RFM (Recency, Frequency, Monetary) analysis helped identify high-value and loyal customers, which can be leveraged for targeted marketing and retention efforts.
 
 ## Files
 List and briefly describe the main files in your project. For example:
