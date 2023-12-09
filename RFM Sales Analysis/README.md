@@ -13,7 +13,7 @@
 ## Overview
 The dataset for this analysis is related to sales. It includes information about sales ​revenue, ​customer segmentation, and ​product lines. The data is organized by various attributes such as ​sales order date, product code, customer information, territory, and deal size. The dataset covers multiple years, with the majority of the analysis focusing on the years 2003-2005. It provides insights into key metrics such as sales amount, order quantity, and revenue distribution across different dimensions such as product lines, countries, and customer segments. This analysis is valuable for anyone involved in strategic decision-making, sales management, marketing, and overall business planning. It provides actionable insights into various dimensions of sales data, empowering stakeholders to optimize their approaches and drive business success.
 
-## Tools Used
+## Tools Used  
 * Microsoft SQL Server 
 * Tableau Public
 * kaggle.com
